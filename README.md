@@ -1,4 +1,4 @@
-# Hi, I'm Shivadas 👋
+# Hi, I'm Prajwal TS 👋
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in building web applications and machine learning solutions. I'm committed to writing clean, efficient code and delivering impactful projects.
 
@@ -69,9 +69,9 @@ A comprehensive web platform for finding and managing student accommodations wit
 
 I'm always interested in collaborating on exciting projects and learning from other developers. Feel free to reach out!
 
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email: prajwalts098@gmail.com
+- 💼LinkedIn:https://www.linkedin.com/in/prajwal-t-s-354a57359
+- 🐦 Twitter: 
 
 ---
 
@@ -79,6 +79,3 @@ I'm always interested in collaborating on exciting projects and learning from ot
 
 My projects are open-source and available under respective licenses. Feel free to explore, fork, and contribute!
 
----
-
-**Last Updated:** June 2026
