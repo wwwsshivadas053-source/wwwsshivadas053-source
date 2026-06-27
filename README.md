@@ -79,3 +79,10 @@ I'm always interested in collaborating on exciting projects and learning from ot
 
 My projects are open-source and available under respective licenses. Feel free to explore, fork, and contribute!
 
+](https://github.com/wwwsshivadas053-source/property-price-prediction
+https://github.com/wwwsshivadas053-source/crop_advisor_system
+https://github.com/wwwsshivadas053-source/Crop_yield_vision
+https://github.com/wwwsshivadas053-source/disease_prediction_system
+https://github.com/wwwsshivadas053-source/student_accommodation_system
+https://github.com/wwwsshivadas053-source/college_notes_rag
+https://github.com/wwwsshivadas053-source/AI_Resume_analyzer
